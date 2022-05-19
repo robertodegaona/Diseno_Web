@@ -18,7 +18,17 @@ Agrega aqui el código de la página de Octavio Paz en HTML Y CSS
         <p><center><strong>Decir, hacer</strong></center></p>
         <p><center>A Roman Jakobson</center> </p>
         <p><center>Entre lo que veo y digo,<br> Entre lo que digo y callo,<br>Entre lo que callo y sueño,<br>Entre lo que sueño y olvido<br> La poesía. </center> </p>
-
+	<p><center>Se desliza entre el sí y el no:<br>dice<br>lo que callo,<br>calla<br>lo que digo,<br>sueña<br>lo que olvido.</center></p>
+	<p><center>No es un decir:<br>es un hacer.</center></p>
+	<p><center>Es un hacer<br>que es un decir.</center></p>
+	<p><center>La poesía<br>se dice y se oye:<br>es real.</center></p>
+	<p><center>Y apenas digo<br>es real,<br>se disipa.</center></p>
+	<p><center>¿Así es más real?<br>Idea palpable,<br>palabra<br>impalpable:<br>la poesía<br>va y viene<br>entre lo que es<br>y lo que no es.</center></p>
+	<p><center>Teje reflejos<br>y los desteje.</center></p>
+	<p><center>La poesía<br>siembra ojos en las páginas<br>siembra palabras en los ojos.</center></p>
+	<p><center>Los ojos hablan<br>las palabras miran,<br>las miradas piensan.</center></p>
+	<p><center>Oír<br>los pensamientos,<br>ver<br>lo que decimos<br>tocar<br>el cuerpo<br>de la idea.</center></p>
+	<p><center>Los ojos<br>se cierran<br>Las palabras se abren.</center></p>
 
 
 
