@@ -6,16 +6,29 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
+        conjunto estructurado de textos, gráficos etcétera, unidos entre sí por enlaces y conexiones lógicas. Un texto normal como por ejemplo, un libro, normalmente   está limitado a una organización lineal o secuencial
 
 2. ¿Qué es la hipermedia? (valor 1.0)
+ conjunto estructurado de diversos medios como textos, gráficos, imágenes y sonidos unidos entre sí por enlaces y conexiones lógicas para la transmisión de una información.
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+     son lenguajes estructurados,
+
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
+etiquetas semanticas 
+
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
 
+traduce los datos que se escriben en html para que el usuario pueda ver y escuchar lo que el diseñador quiere mostrar 
+
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+
+html: es un lenguaje estructurado, que nos permite crear, ver, modificar una pagina web
+
+css: nos permite dar formato a un documento html con mayor facilidad 
+
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -26,13 +39,33 @@ Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
+* cortar, copiar, y pegar
+* dar formato a un texto
+* buscar y remplazar 
+* hacer y desahacer  
+* crear viñetas 
+
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+
+* block de notas
+* word 
+* visual studio code
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
+* .html
+
+
+
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
+ .css
+
+
+
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+
+png, jpg , gif
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
@@ -40,7 +73,7 @@ a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
+  
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
@@ -49,43 +82,46 @@ Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el 
 Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
+son palabras clave que dan formato al contenido y van dentro de llaves "<>"
+elemento son etiquetas que nos permiten saber como va a estar estructurada la pagina
+
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
-etiqueta
+
+       
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
-        información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
-  
+      
+        
+ 
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-        a) header
-        b) footer
-        c) nav
+      
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
+    
         c) time
-        d) span
+    
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+
+acticle
+main
+section
+aside
+figure
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+        1. <img src="birthday.jpg"> falta el atributo para localizar la imgen
+        2. <i>Congratulations!</i> no cierra el elemnto con la barra /
+        3. <a href="file.html">Enlace de texto</a> solo basta con cerrar la etiqueda a con </a>
+        4. <p>Esto es un párrafo</p> la barra esta alrevez / 
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
