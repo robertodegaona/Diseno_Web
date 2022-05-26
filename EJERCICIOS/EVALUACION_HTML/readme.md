@@ -289,3 +289,64 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+
+
+                        <!DOCTYPE html>
+                        <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                            <title>evaluacionhtml</title>
+                        </head>
+                        <body>
+
+                                        <header>
+                                                <h1> ENCABEZADO NIVEL 1</H1>
+                                                        <nav>
+                                                                <ul>
+                                                <li><a href=""> ENLACE 1</a></li>
+                                                                    <li><a href=""> ENLACE 2</a></li>
+                                                                    <li><a href=""> ENLACE 3</a></li>
+                                                                    <li><a href=""> ENLACE 4</a></li>
+                                            </ul>
+                                                        </nav>
+                                        </header>
+                                        <main>
+                                                <section>
+                                        <h3>ENCABEZADO NIVEL 2</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, consectetur molestiae! Numquam, nobis. Quibusdam culpa, accusantium dolore voluptatum veritatis mlum rerum provident voluptatibus aliquid quam sunt dolor non aliquam reprehenderit ipsum vel optio amet, asperiores sit iure quo! Neque iste nobis asperiores excepturi fugiat assumenda reprehenderit, provident dolor voluptatum.</p>
+                                        <P> Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, aperiam! Repellendus accusantium vero est voluptatibus repudiandae voluptatum quas debitis soluta eligendi temporibus quam in, et assumenda saepe excepturi sunt pariatur.</P>
+                                    </section>
+
+                                    <aside>
+
+                                            <h2>APARTADO</h2>
+                                            <br>
+                                        <form>
+                                            Elije una opcion <br>
+                                            <label><input type="radio" id="option" name="option" value="opcion 1"/>opcion 1</label> <br>
+                                            <label><input type="radio" id="option" name="option" value="opcion 2"/>opcion 2 </label><br>
+                                            <label><input type="radio" id="option" name="option" value="opcion 3"/>opcion 3 </label><br>
+                                            <input type="submit" value="enviar"/>                    
+
+                                        </form>
+
+
+                                    </aside>
+
+
+
+                                        </main>
+                                <footer>
+                                        <P>seccion de informacion de contacto, derechos de autor, etc</P>
+
+                                </footer>
+
+
+
+                        </body>
+                        </html>
+          
+
