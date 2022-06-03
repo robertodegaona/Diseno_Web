@@ -101,59 +101,49 @@ El borde izquierdo = 20 píxeles
 
 El borde derecho = 1 píxel
   
-          a) border-width:10px 1px 5px 20px;
-          b) border-width:5px 20px 10px 1px;
-          c) border-width:10px 20px 5px 1px;
+ 
           d) border-width:10px 5px 20px 1px; (valor 0.25)
           
 17. ¿Qué propiedad se usa para cambiar el margen izquierdo de un elemento? (valor 0.25)
 
-          a) padding-left
+         
           b) margin-left
           
 18. Al usar la propiedad de relleno (padding); ¿Está permitido usar valores negativos? (valor 0.25)
 
             a) No
-            b) Sí
-            c) indent
+          
             
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
  
-            a) *demo
+            
             b) #demo
-            c) .demo
-            d) demo
+      
             
 20.¿Cómo se seleccionan elementos con el nombre de clase 'test'? (valor 0.25)
 
-            a) *test
+      
             b) .test
-            c) #test
-            d) test
+  
             
 21. ¿Cómo se seleccionan todos los elementos p dentro de un elemento div? (valor 0.25)
 
-            a) div.p
+
             b) div p
-            c) div + p
+     
             
 22.¿Cómo se agrupan los selectores? (valor 0.25)
 
-            a) Separe cada selector con un espacio
-            b) Separe cada selector con un signo más
+       
             c) Separe cada selector con una coma
             
 23. ¿Cuál es el valor predeterminado de la propiedad posición? (valor 0.25)
 
-            a) absolute
-            b) fixed
-            c) relative
+
             d) static
             
  24.¿Cómo se hace una lista que enumere sus elementos con cuadrados? (valor 0.25)
  
-            a) list-type: square;
-            b) list: square;
             c) list-style-type: square;
             
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la
