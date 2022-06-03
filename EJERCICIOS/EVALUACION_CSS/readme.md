@@ -175,10 +175,127 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>evalucacion css</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Istok+Web:wght@700&display=swap" rel="stylesheet">
+          </head>
+          <body>
+    <header>
+
+        <div class="titulo">
+            <img src="img/logo.svg" alt=""><hr>
+        </div>
+        
+        
+            <ul>    
+                <li><a href=""> Residentes </a> </li>
+                <li><a href=""> Negocios </a> </li>
+                <li><a href=""> Visitantes </a> </li>
+                <li><a href=""> Gobierno </a> </li>
+
+            </ul>
+
+
+    </header>
+
+    <main>
+
+        <div class="letras">
+        <img class="vector" src="img/hero-vector.svg" alt="">
+        <h1> APRENDE A PROGRAMAR <br> EN LAS ESCUELAS <br> DE CODIGO <br> DE LA CDMX</h1>
+        </div>
+
+
+
+
+    </main>
+
+    <footer>
+        <h4> ¿Quien se puede inscribir?</h4>
+        <p class="p1">Cualquier persona que quiera aprender a programar codigo y cuente con 4-8 horas disponibles a la semana</p>
+        <p class="p2">Menores de edad deberan entrar a las instalaciones acompañados de un adulto</p>
+
+    </footer>
+
+
+
+    
+          </body>
+          </html>
+          
           
           
           
           INGRESA AQUI EL CSS
+          
+          .titulo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+          }
+          ul{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+          }
+          li{ list-style: none;
+    margin-left: 20px;
+          }
+          a{
+    text-decoration: none;
+          }
+
+          main{
+    display: flex;
+    justify-content: left;
+    align-items: top;
+
+    height: 50vh;
+    width: 100%;
+    background: url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: contain;
+
+
+
+          }
+          .vector{
+    
+    position: relative;
+    width: 20px;
+    height: 80px;
+          }
+          h1{
+    color: white;
+    margin-left: 20px;
+    font-family: 'Istok Web', sans-serif;
+    text-size-adjust: 500px;
+          }
+
+          footer{
+    text-align: center;
+          }
+          h4{
+    color: rgb(240, 160, 56);
+    font-size: 30px;
+          }
+          .p1{
+    color: cadetblue;
+    font-size: 20px;
+          }
+          .p2{
+    color: rgb(180, 165, 31);
+    font-size: 20px;
+          }
           
           
           
